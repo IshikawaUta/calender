@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 Installasi </h3>
 
 ```diff
-+ termux installasi +
+- termux installasi -
 ```
 
 ```
@@ -15,4 +15,18 @@ npm install ansi-code
 git clone https://github.com/IshikawaUta/calender
 cd calender
 python main.py
+```
+```diff
++ ubuntu installasi +
+```
+
+```
+sudo apt install git
+sudo apt install pyhton3
+sudo install nodejs-lts
+pip3 install python3-colorama
+npm install ansi-code
+git clone https://github.com/IshikawaUta/calender
+cd calender
+python3 main.py
 ```
